@@ -32,13 +32,13 @@ import { createContext, useState } from "react";
         return cart.reduce((accum, item) => accum += item.quantity, 0); 
     }
 
-    const cartSun = () => {
+    const cartSum = () => {
         return cart.reduce((accum, item) => accum += item.quantity * item.precio , 0); 
     }
 
 
     return (
-        <CartContext.Provider value={{cart, addItem, removeItem, clear, cartTotal, cartSun}} >
+        <CartContext.Provider value={{cart, addItem, removeItem, clear, cartTotal, cartSum}} >
             {children}
         </CartContext.Provider>
     )

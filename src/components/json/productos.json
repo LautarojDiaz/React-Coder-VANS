@@ -1,73 +1,73 @@
 [
     {
         "index": 1,
-        "nombre": "Gorra Azul",
-        "descripcion":"Gorros Court Side Hat",
+        "nombre": "Gorra Court Side Hat",
+        "descripcion":"Gorra Azul",
         "precio": 1500,
-        "imagen": "../images/gorra1.jpg",
+        "imagen": "/images/gorra1.jpg",
         "stock": "10",
         "categoria": "gorras"
     },    
     {
         "index": 2,
-        "nombre": "Gorra Rosa",
-        "descripcion":"Gorros Court Side Hat",
+        "nombre": "Gorros Stow Away Hat",
+        "descripcion":"Gorra Negra",
         "precio": 1400,
         "imagen": "9",
-        "stock": "../images/gorra2.jpg",
+        "stock": "/images/gorra2.jpg",
         "categoria": "gorras"
     },
     {
         "index": 3,
-        "nombre": "Gorra Negra",
-        "descripcion":"Gorros Stow Away Hat",
+        "nombre": "Gorros Stow Away Hat",
+        "descripcion":"Gorra Negra",
         "precio": 1100,
-        "imagen": "../images/gorra3.jpg",
+        "imagen": "/images/gorra3.jpg",
         "stock": "8",
         "categoria": "gorras"
     },    
     {
         "index": 4,
-        "nombre": "Zapatillas Negras",
-        "descripcion":"Zapatillas U AUTHENTIC",
+        "nombre": "Zapatillas U AUTHENTIC NEGRAS",
+        "descripcion":"Zapatillas Negras",
         "precio": 1200,
-        "imagen": "../images/zapatilla1.jpg",
+        "imagen": "/images/zapatilla1.jpg",
         "stock": "6",
         "categoria": "zapatillas"
     },
     {
         "index": 5,
-        "nombre": "Zapatillas Bordo",
-        "descripcion":"Zapatillas U AUTHENTIC",
+        "nombre": "Zapatillas U AUTHENTIC BORDO",
+        "descripcion":"Zapatillas Bordo",
         "precio": 1200,
-        "imagen": "../images/zapatilla2.jpg",
+        "imagen": "/images/zapatilla2.jpg",
         "stock": "7",
         "categoria": "zapatillas"
     },
     {
         "index": 6,
-        "nombre": "Zapatillas Rosas",
-        "descripcion":"Zapatillas U OLD SKOOL",
+        "nombre": "Zapatillas U OLD SKOOL",
+        "descripcion":"Zapatillas Rosas",
         "precio": 1100,
-        "imagen": "../images/zapatilla3.jpg",
+        "imagen": "/images/zapatilla3.jpg",
         "stock": "5",
         "categoria": "zapatillas"
     },
     {
         "index": 7,
-        "nombre": "Buzo Negro",
-        "descripcion":"Buzos Vans Classic Crew II",
+        "nombre": "Buzo Vans Classic Crew II",
+        "descripcion":"Buzo Negro",
         "precio": 1200,
-        "imagen": "../images/buzo1.jpg",
+        "imagen": "/images/buzo1.jpg",
         "stock": "8",
         "categoria": "buzos"
     },
     {
         "index": 8,
-        "nombre": "Buzo Azul",
-        "descripcion":"Buzos OTW Po II",
+        "nombre": "Buzo OTW Po II",
+        "descripcion":"Buzo Azul",
         "precio": 1100,
-        "imagen": "./images/buzo2.jpg",
+        "imagen": "/images/buzo2.jpg",
         "stock": "5",
         "categoria": "buzos"
     }

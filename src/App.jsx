@@ -8,10 +8,6 @@ import Error404 from "./components/Error404";
 import {BrowserRouter, Routes, Route} from "react-router-dom";
 import './App.css';
 
-
-
-
-
 function App() {
   return (
   <CartContextProvider>
@@ -25,7 +21,6 @@ function App() {
           <Route path={"/cart"} element={<Cart/>} />
           <Route path={"*"} element={<Error404/>} />
         </Routes>
-        <ItemListContainer />
         <Footer />
       </div>
     </BrowserRouter>

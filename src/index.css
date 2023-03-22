@@ -10,3 +10,23 @@
   right: 0;
   text-align: center;
 }
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+
+}
+footer {
+  background-color: #333;
+  color: #fff;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+  margin-top: 30px; /* Igual a la altura del footer */
+}
+
+
